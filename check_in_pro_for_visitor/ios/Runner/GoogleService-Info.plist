@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>559899459448-g0qgntrgvgfkrvn5bi5lur4hc89gh0gc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.559899459448-g0qgntrgvgfkrvn5bi5lur4hc89gh0gc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrtTY6eN0IjP-5kx5-2lHR8wposZAclDc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>559899459448</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.com.hdbank.accesscontrol</string>
+	<key>PROJECT_ID</key>
+	<string>hdbank-access-control</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hdbank-access-control.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:559899459448:ios:0e5b40f7d60b595e97d28d</string>
+</dict>
+</plist>

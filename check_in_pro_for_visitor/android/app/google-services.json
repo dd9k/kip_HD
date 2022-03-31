@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559899459448",
+    "project_id": "hdbank-access-control",
+    "storage_bucket": "hdbank-access-control.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559899459448:android:7ddba849bae8527497d28d",
+        "android_client_info": {
+          "package_name": "vn.com.hdbank.accesscontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559899459448-77h11d4ofjcdtcc9kupo5g3g6pnrkuhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9QA-8kHr150U8j6nyojypYB06Wp0tBV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559899459448-77h11d4ofjcdtcc9kupo5g3g6pnrkuhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
